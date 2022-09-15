@@ -75,3 +75,10 @@ Variables created outside the function.
 
 ![Array Methods](https://github.com/jstrand28/Coding-Notes/blob/main/Variable_example2.png)
 
+*The Global Keyword*
+
+This is when you put global in front of the variable, defining the variable as global.
+
+**Example**
+
+![Array Methods](https://github.com/jstrand28/Coding-Notes/blob/main/Global_Variable.png)
