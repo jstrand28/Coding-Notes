@@ -39,7 +39,9 @@ a as a variable is completely different then A as a variable.
 - Are case sensitive
 
 **Examples**
+
 ![Array Methods](https://github.com/jstrand28/Coding-Notes/blob/main/Variable_example1.png)
 
 **Array Methods**
+
 ![Array Methods](https://github.com/jstrand28/Coding-Notes/blob/main/ArrayMethods.PNG)
