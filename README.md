@@ -42,6 +42,20 @@ a as a variable is completely different then A as a variable.
 
 ![Array Methods](https://github.com/jstrand28/Coding-Notes/blob/main/Variable_example1.png)
 
+### Multi Word Variables
+
+**Camel Case**
+
+Each word, except the first is capitalized.
+
+**Pascal Case**
+
+Each word starts with a capital letter.
+
+**Snake Case**
+
+Each word is separated by an underscore character.
+
 **Array Methods**
 
 ![Array Methods](https://github.com/jstrand28/Coding-Notes/blob/main/ArrayMethods.PNG)
