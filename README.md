@@ -82,3 +82,12 @@ This is when you put global in front of the variable, defining the variable as g
 **Example**
 
 ![Array Methods](https://github.com/jstrand28/Coding-Notes/blob/main/Global_Variables.png)
+
+## Python Data Types
+
+![Array Methods](https://github.com/jstrand28/Coding-Notes/blob/main/Data%20Types.png)
+
+![Array Methods](https://github.com/jstrand28/Coding-Notes/blob/main/DataTypeExample.png)
+
+![Array Methods](https://github.com/jstrand28/Coding-Notes/blob/main/DataTypeExample2.png)
+
