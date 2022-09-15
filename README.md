@@ -59,3 +59,19 @@ Each word is separated by an underscore character.
 **Array Methods**
 
 ![Array Methods](https://github.com/jstrand28/Coding-Notes/blob/main/ArrayMethods.PNG)
+
+**Multi Variable Techniques**
+
+- x, y, z = "Orange", "Banana", "Cherry"  *x = "Orange", y = "Banana", z = "Cherry"*
+- x = y = z = "Orange"  *x = "Orange", y = "Orange", z = "Orange"*
+- fruits = ["apple", "banana", "cherry"]
+- x, y, z = fruits *x = "apple", y = "banana", z = "cherry"*
+
+**Global Variable**
+
+Variables created outside the function.
+
+**Example**
+
+![Array Methods](https://github.com/jstrand28/Coding-Notes/blob/main/Variable_example2.png)
+
