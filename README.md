@@ -2,17 +2,17 @@
 
 ## Python Notes
 
-#### Commments
+### Commments
 
 #This is a comment in Python
 
-#### Variables
+### Variables
 
 **Examples**
 x = 4         #x is of type int
 x = "Sally"   #x is now of type string
 
-######Casting
+#### Casting
 
 **Examples**
 x = str(3)    #x will be '3'
