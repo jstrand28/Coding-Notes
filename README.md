@@ -9,8 +9,8 @@
 ### Variables
 
 **Examples**
-- x = 4         #x is of type int
-- x = "Sally"   #x is now of type string
+- | x = 4 |         #x is of type int |
+- | x = "Sally" |   #x is now of type string |
 
 #### Casting
 
